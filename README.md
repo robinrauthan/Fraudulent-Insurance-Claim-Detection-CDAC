@@ -41,9 +41,10 @@ Based on the evaluation metrics, the selected model for this project is Logistic
 Here are some key performance metrics of the selected model:
 
 Classification Report:  (Includes precision, recall, F1-score)
-Accuracy: 76
-ROC AUC: 61.3
-Confusion Matrix: [[136  13] [ 35  16]]
+
+   1. Accuracy: 76
+   2. ROC AUC: 61.3
+   3. Confusion Matrix: [[136  13] [ 35  16]]
 
 ## Conclusion
 The Fraudulent Insurance Claim Detection project demonstrates the application of machine learning techniques to identify potentially fraudulent insurance claims. The selected model, Logistic Regression, shows promising results in discriminating between fraudulent and non-fraudulent claims.
